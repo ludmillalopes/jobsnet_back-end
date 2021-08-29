@@ -1,0 +1,28 @@
+{
+  "name": "jobsnet_back-end",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido no Programa de bolsas Start Tech - Ambev Tech.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludmillalopes/jobsnet_back-end.git"
+  },
+  "author": "Ludmilla Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ludmillalopes/jobsnet_back-end/issues"
+  },
+  "homepage": "https://github.com/ludmillalopes/jobsnet_back-end#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.2",
+    "swagger-ui-express": "^4.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
