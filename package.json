@@ -4,6 +4,7 @@
   "description": "Projeto desenvolvido no Programa de bolsas Start Tech - Ambev Tech.",
   "main": "index.js",
   "scripts": {
+    "start": "node ./src/index.js"
     "dev": "nodemon src/index.js"
   },
   "repository": {
