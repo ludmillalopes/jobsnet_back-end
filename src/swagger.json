@@ -13,7 +13,7 @@
       "description": "ambiente de desenvolvimento"
     },
     {
-      "url": "https://jobsnetvagas.herokuapp.com/",
+      "url": "https://jobsnet-back-end.herokuapp.com",
       "description": "ambiente de produção"
     }
   ],
